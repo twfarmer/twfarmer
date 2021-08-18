@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+大家好，我是要升錦和國中一年級的學生。我每天要照顧我種在陽台的植物。我想要成為一個好農夫。
+我每天利用 GitHub 來記錄我栽種的過程。我要有毅力，每天上來寫哦。
+
+- 8/17（二）收成阿公種的2顆火龍果
 <!--
 **twfarmer/twfarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
